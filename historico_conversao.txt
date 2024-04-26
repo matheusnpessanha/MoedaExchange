@@ -1,0 +1,30 @@
+
+**********************************************************************
+
+Conversão: VUV => ALL
+
+
+Taxa de conversão: ALL 0,7728
+Valor Informado: VUV 100,00
+Valor Convertido: ALL 77,28
+
+Última atualização do valor de conversão: 25/04/2024 21:00:01
+Data conversão: 25/04/2024 23:20:35
+
+**********************************************************************
+
+
+**********************************************************************
+
+Conversão: ALL => AMD
+
+
+Taxa de conversão: AMD 4,1446
+Valor Informado: ALL 100,00
+Valor Convertido: AMD 414,46
+
+Última atualização do valor de conversão: 25/04/2024 21:00:01
+Data conversão: 25/04/2024 23:21:43
+
+**********************************************************************
+
